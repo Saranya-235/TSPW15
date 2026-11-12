@@ -5,8 +5,5 @@ test("t1", ()=>{
     
 })
 
-test.fail("t2", ()=>{
-    // console.log("Test 2 executed");
-    
-})
+
 
