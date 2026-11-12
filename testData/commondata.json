@@ -1,0 +1,25 @@
+{
+   "loginData":[
+    {
+      "url":"http://49.249.29.4::8888",
+      "userName":"admin",
+      "password":"admin",
+      "expectedRes":"pass"
+
+    },
+    {
+      "url":"http://49.249.29.4::8888",
+      "userName":"ad123",
+      "password":"admin",
+      "expectedRes":"fail"
+
+    },
+    {
+      "url":"http://49.249.29.4::8888",
+      "userName":"admin",
+      "password":"admin123"
+
+    }
+   ]
+}
+
