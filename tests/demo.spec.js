@@ -10,7 +10,3 @@ test.fail("t2", ()=>{
     
 })
 
-test.skip("t3", ()=>{
-    // console.log("Test 3 executed");
-    
-})
